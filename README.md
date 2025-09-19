@@ -264,7 +264,7 @@
                     </li>
                     <li class="task-item">
                         <i class="fas fa-check-circle"></i>
-                        <span>Remplassage d'écran, clavier, souri, dictaphon </span>
+                        <span>Remplassage d'écran, clavier, souri, dictaphon</span>
                     </li>
                 </ul>
             </div>
