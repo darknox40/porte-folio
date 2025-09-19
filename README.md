@@ -252,7 +252,7 @@
                 <ul class="task-list">
                     <li class="task-item">
                         <i class="fas fa-check-circle"></i>
-                        <span>Préparation et déploiement de postes TicTacPhone sécurisés</span>
+                        <span>Préparation et déploiement de postes sécurisés</span>
                     </li>
                     <li class="task-item">
                         <i class="fas fa-check-circle"></i>
@@ -264,7 +264,7 @@
                     </li>
                     <li class="task-item">
                         <i class="fas fa-check-circle"></i>
-                        <span>Remplassage d'écran, clavier, souri</span>
+                        <span>Remplassage d'écran, clavier, souri, dictaphon </span>
                     </li>
                 </ul>
             </div>
