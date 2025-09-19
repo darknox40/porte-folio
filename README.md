@@ -285,7 +285,7 @@
                 </div>
                 <div class="stat-item">
                     <div class="stat-number">40</div>
-                    <div>Postes TicTacPhone déployés</div>
+                    <div>Postes déployés</div>
                 </div>
                 <div class="stat-item">
                     <div class="stat-number">0</div>
